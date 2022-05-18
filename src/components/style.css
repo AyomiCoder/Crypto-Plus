@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+    .footer{
+        color: white;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        background-color: #2666CF;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    /* .footer:hover{
+        color:#dddddd;
+    } */
+
+    .footer a{
+        text-decoration: none;
+        color: white;
+    }
+
+    .footer a:hover{
+        color: #cfcfcf;
+    }
